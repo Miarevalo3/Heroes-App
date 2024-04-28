@@ -13,7 +13,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Bruce Wayne",
       "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne"
+      "characters": "Bruce Wayne",
+      "alt_img": "https://img2.wikia.nocookie.net/__cb20130412165015/marvel_dc/images/3/33/Batman_002.jpg"
     },
     {
       "id": "dc-superman",
@@ -166,6 +167,15 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "qwAOSOi",
+      "superhero": "deadpool",
+      "publisher": "Marvel Comics",
+      "alter_ego": "rogers",
+      "first_appearance": "deadpool #1",
+      "characters": "actor",
+      "alt_img": "https://pm1.narvii.com/7159/d3eeb74b52f984bbafec39dbcbd74fcc87454bdbr1-980-1383v2_uhq.jpg"
     }
   ]
 }
