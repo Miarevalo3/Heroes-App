@@ -99,8 +99,6 @@ export class NewPageComponent implements OnInit {
         this.router.navigateByUrl('/heroes')
       })
 
-
-
     // dialogRef.afterClosed().subscribe(result => {
     //   if ( !result ) return
 
